@@ -12,21 +12,21 @@ Primer design guideline:
 
 # This is how we order primers
 
-Primers are ordered from this website 'https://www.sigmaaldrich.com/pc/ui/tube-home/standard'. Login with lab account and password. Their website might change once in a while. 
+Primers are ordered from this website 'https://www.sigmaaldrich.com/pc/ui/tube-home/standard'. Login with lab account and password. Their website might change once in a while (below are instruction writen based on current website on Oct 2017). 
 
 To get to primer ordering page, select taps following this path: product -> Custome Product -> Order Oliges and Peptides -> Oligos and Probes -> DNA Oligos in Tubes -> Order. If you have the primer information entered in a Multiple Entry Template(provided by Sigma), choose "upload and copy & paste".If you dont, select "manual entry". 4 essential components:
   - oligo name: select a name for the primer that make sense for your (ex, nr5a1_ex1_for1, nr5a1 is the name of gene the primer is for, ex1 indicate exon1 of the gene, for1 indicate forward primer 1). 
   - seqenuence(5' to 3'): the input primer sequence need to start from the 5' to 3' of the primer (not the 5' to 3' of the sequence that you are trying to amplify)
-  - scale (micro mole): 0.025
+  - scale (umole): 0.025
   - purification: PR1
 
-
-
+The primers will be in the form of dry powder and will be in a tube. Shipping time is about 2-3 days.  
 
 # This is how we make a 100um stock of primers once they arrive
+Before making the stock, centrifigute the tube containing primers for 2min at 8.0rpm to allow the primers (in powder) to aggragate at the bottom of the tube. 
+On the Technical Datasheet that arrives with the primers, the second last column (ul for 100uM) indicated the amount of distilled water(in ul) that you need to add in order to reach primer concentration of 100uM. To avoid contamination, use the 1000ul pipete tips with filter (100ul pipete tips with a filter dis near the top). You can add the distilled water directly into the tube containing the primers. 
 
-Blah blah
 
 # This is how we make a 20uM stock of primers from the 100uM stock
+In a new 1ml tube, take 40ul of above primer stock and mix it with 160ul distilled water. 
 
-Blah Blah
