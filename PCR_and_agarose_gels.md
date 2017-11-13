@@ -9,8 +9,8 @@
 
 ### PCR mixture
 1. Make a master mix
-  - ex. if you are using the same primer combination (primer F1 x primer R1) for 7 DNA samples, make a master mix of 11 (7 for DNA sample, as negative control). Calculate the total needed amount of each component (ex, total dH2O = 5.5 * 7 =38.5ul)
-  - Take a 1.5ml tube from the pre-PCR drawer, label the tube. In the tube, make the master mix with the calculated amounts.  
+    - ex. if you are using the same primer combination (primer F1 x primer R1) for 7 DNA samples, make a master mix of 11 (7 for DNA sample, as negative control). Calculate the total needed amount of each component (ex, total dH2O = 5.5 * 7 =38.5ul)
+    - Take a 1.5ml tube from the pre-PCR drawer, label the tube. In the tube, make the master mix with the calculated amounts.  
  2. Take one panel of PCR tube, label the tube (To, sample A, sample B...ect). With a 20ul pipette, pipette 12.36ul of the mix into each PCR tube.
  3. Other than the negative control tube, with a 10ul pipette, add 0.75ul of DNA into the corresponding PCR tube. Ex. pipette 0.75ul of sample A into the tube labelling sample A.
  
