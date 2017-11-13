@@ -39,12 +39,24 @@ Microwave until just boiling. Then swirl and microwave again.  THen add 3ul of E
 
 Load on negative (black) side because DNA is negatively charged.  Run at 100 mA for 30 mins 
 
-#### Making a 1% gel step by step intruction
+### Making a 1% gel step by step intruction
 1. Put the 500mL glass vase on scale to zero it
 2. Add 1g of agarose powder to the glass vase on scale
 3. Get 100ml of TBE buffer using a graduated cylinder (use graduated cylinder from the EtBr contaminated zone).
 3. Pour the TBE buffer into the glass vase. 
-4. Microwave the mixture until just boiling. Then take it out the microware and swirl the mixture. Microware the mixture again for 15-20sec.
-5. Sit the glass vase containing the mixture on the counter to allow it to cool down for 15-20min.
+4. Microwave the mixture until just boiling. With a heat glove, take it out from microware and swirl the mixture. Microware the mixture again until it is clear.
+5. Sit the glass vase containing the mixture on the counter to allow it to cool down until it is safe to touch.
+        - if the mixture solify in the glass vase, you can reheat it in the microwave
 6. Add 3ul of Ethidium Bromide.
-7. Set up the gel tray and pour the mixture. 
+7. Set up the gel tray with desired combs and pour the mixture.
+8. Wait for the gel to solify. Take out the comb. 
+
+### Running a gel
+1. Put a paper towel on the counter. Put the tray containing the gel on the paper towel.
+2. Use a 10ul pipette (post-PCR), pipette 2ul of PCR product into the wells (1 PCR product = 1 well) 
+3. After loading the PCR products into the wells, carefully put the gel tray into the Gel running machine. The top well should be on the black wire side.
+4. close the lip. 
+5. Set the volts, mAmps, and time. A typical run setting is: 110 volts, 110 mAmps, and 30 minutes.
+
+### Taking gel image
+
