@@ -1,4 +1,4 @@
-# A typical PCR reaction
+# PCR reaction
 
 ### Mix - per sample
 - dH2O: 5.5ul
@@ -20,7 +20,7 @@
 3. Select a saved PCR cycle to run or set up your own PCR cycle. A typic cycle would involve:
 4. Exit the cycle editing screen. Select the cycle then press start. Select 'Tube' then press OK to start running. 
 
-# How to make a 1% gel
+# Checking the present of PCR product with 1% gel
 
 1 gram of agarose plus 100 mls volume of TBE buffer (adjust if running a large gel)
 
@@ -31,7 +31,7 @@ Load on negative (black) side because DNA is negatively charged.  Run at 100 mA 
 #### Making a 1% gel step by step intruction
 1. Put the 500mL glass vase on scale to zero it
 2. Add 1g of agarose powder to the glass vase on scale
-3. Get 100ml of TBE buffer using a graduated cylinder (from the EtBr contaminated zone).
+3. Get 100ml of TBE buffer using a graduated cylinder (use graduated cylinder from the EtBr contaminated zone).
 3. Pour the TBE buffer into the glass vase. 
 4. Microwave the mixture until just boiling. Then take it out the microware and swirl the mixture. Microware the mixture again for 15-20sec.
 5. Sit the glass vase containing the mixture on the counter to allow it to cool down for 15-20min.
