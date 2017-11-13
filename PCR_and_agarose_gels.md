@@ -39,7 +39,7 @@ Microwave until just boiling. Then swirl and microwave again.  THen add 3ul of E
 
 Load on negative (black) side because DNA is negatively charged.  Run at 100 mA for 30 mins 
 
-### Making a 1% gel step by step intruction
+### Making a 1% gel step by step instruction
 1. Put the 500mL glass vase on scale to zero it
 2. Add 1g of agarose powder to the glass vase on scale
 3. Get 100ml of TBE buffer using a graduated cylinder (use graduated cylinder from the EtBr contaminated zone).
