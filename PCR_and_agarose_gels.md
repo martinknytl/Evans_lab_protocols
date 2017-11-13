@@ -27,6 +27,9 @@ General tips:
 2. Put the PCR tubes into the wells. Close the lip firmly. 
 3. Select a saved PCR cycle to run or set up your own PCR cycle. A typic cycle would involve:
 4. Exit the cycle editing screen. Select the cycle then press start. Select 'Tube' then press OK to start running. 
+5. After the reaction finished, the machine will ask you to press "Enter". Press "enter" and push the lip open.
+6. One a piece of tape, put the information of your PCR product including the name of the reaction(ex. PCR), primer used(psex_xb_F1 x psex_xb_R1), name of the species(xborealis), date (Nov 5 2017).
+7. Put the tape on the tubes and put the plate holding the PCR tubes into the fridge.
 
 # Checking the present of PCR product with 1% gel
 
