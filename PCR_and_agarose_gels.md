@@ -11,14 +11,14 @@
 ### PCR mixture
 1. Make a master mix
     - ex. if you are using the same primer combination (primer F1 x primer R1) for 7 DNA samples, make a master mix for 8 samples (7 for DNA samples, 1 for negative control). Calculate the total needed amount of each component (ex, total dH2O = 5.5 * 7 =38.5ul)
-    - Take a 1.5ml tube from the pre-PCR drawer, label the tube. In the tube, make the master mix with the calculated amounts.  
+    - Take a 1.5ml tube from the pre-PCR drawer, label the tube. In the tube, make the master mix with the calculated amount.  
  2. Take one panel of PCR tube from the pre-PCR drawer, label the tube (T0(negative control), sample A, sample B...ect). With a 20ul pipette, pipette 12.36ul of the mix into each PCR tube. You can use the same pipette tips to pipette the same master mix.
-        - Do To last to make sure you have enough for each sample. It is okay if you only have a little bit (min=2ul) for To. 
- 3. Other than the negative control tube, with a 10ul pipette, add 0.75ul of DNA into the corresponding PCR tube. Ex. pipette 0.75ul of sample A DNA into the PCR tube labelling sample A. Change pipette tips for each DNA sample.
-        - make sure there is sample in the pipette tips when you pipette.
-        - pipette up and down several times after adding DNA to ensure you get most of the DNA out of the tip.
+        - Do T0 last to make sure you have enough for each sample. It is okay if you only have a little bit (min=2ul) for T0. 
+ 3. Other than the T0 tube, with a 10ul pipette, add 0.75ul of DNA into the corresponding PCR tube. Ex. pipette 0.75ul of sample A DNA into the PCR tube labelling sample A. Change pipette tips for each DNA sample.
+        - note 1: make sure there is sample in the pipette tips when you pipette.
+        - note 2: pipette up and down several times after adding DNA to ensure you get most of the DNA out of the tip.
 
-General tips:
+Useful notes:
         - In the tray holding the extracted DNA samples, move the one that you are done with one space up so that you know it is done.
         - In the tip box, always start with the first tips of a row so that you know which PCR tube you are at. 
  
