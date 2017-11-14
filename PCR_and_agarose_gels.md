@@ -19,8 +19,8 @@
     - note 2: pipette up and down several times after adding DNA to ensure you get most of the DNA out of the tip.
 
 Useful notes:
-        - In the tray holding the extracted DNA samples, move the one that you are done with one space up so that you know it is done.
-        - In the tip box, always start with the first tips of a row so that you know which PCR tube you are at. 
+    - In the tray holding the extracted DNA samples, move the one that you are done with one space up so that you know it is done.
+    - In the tip box, always start with the first tips of a row so that you know which PCR tube you are at. 
  
 ### Running PCR reaction
 1. Turn on the Mastercycler machine. Login with the user name and password provided on the sticker note. 
