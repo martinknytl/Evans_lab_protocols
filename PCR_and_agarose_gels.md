@@ -1,6 +1,6 @@
 # PCR reaction
 
-### Mix - per sample
+### Mix - per DNA sample
 - dH2O: 5.5ul
 - buffer: 6.25ul
 - Forward Primer: 0.28ul
