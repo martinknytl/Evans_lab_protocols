@@ -59,4 +59,5 @@ Load on negative (black) side because DNA is negatively charged.  Run at 100 mA 
 5. Set the volts, mAmps, and time. A typical run setting is: 110 volts, 110 mAmps, and 30 minutes.
 
 ### Taking gel image
+1. 
 
