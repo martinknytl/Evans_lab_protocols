@@ -15,7 +15,7 @@ Primer design guideline:
 Primers are ordered from this website 'https://www.sigmaaldrich.com/pc/ui/tube-home/standard'. Login with lab account and password. Their website might change once in a while (below are instruction writen based on current website on Oct 2017). 
 
 1. To get to primer ordering page, select taps following this path: product -> Custome Product -> Order Oliges and Peptides -> Oligos and Probes -> DNA Oligos in Tubes -> Order. 
-2. If you have the primer information entered in a Multiple Entry Template(provided by Sigma), choose "upload and copy & paste".If you dont, select "manual entry". 4 essential components:
+2. If you have the primer information entered in a Multiple Entry Template(provided by Sigma, see below * for note), choose "upload and copy & paste".If you dont, select "manual entry". 4 essential components:
     - oligo name: select a name for the primer that make sense for your (ex, nr5a1_ex1_for1, nr5a1 is the name of gene the primer is for, ex1 indicate exon1 of the gene, for1 indicate forward primer 1). 
     - seqenuence(5' to 3'): the input primer sequence need to start from the 5' to 3' of the primer (not the 5' to 3' of the sequence that you are trying to amplify)
     - scale (umole): 0.025
@@ -23,7 +23,7 @@ Primers are ordered from this website 'https://www.sigmaaldrich.com/pc/ui/tube-h
     - notes: RP1
 3. The primers will be in the form of dry powder and will be in a tube. Shipping time is about 2-3 days. 
 
-*The multiple Entry Template (provided by Sigma) have the below columns*
+* *The multiple Entry Template (provided by Sigma) have the below columns*
 ```
 Oligo Name	Sequence	Scale (μmole)	"Notes (Optional)"
 ```
