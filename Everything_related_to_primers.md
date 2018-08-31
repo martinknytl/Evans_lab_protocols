@@ -21,7 +21,12 @@ Primers are ordered from this website 'https://www.sigmaaldrich.com/pc/ui/tube-h
     - scale (umole): 0.025
     - purification: Desalt
     - notes: RP1
-3. The primers will be in the form of dry powder and will be in a tube. Shipping time is about 2-3 days.  
+3. The primers will be in the form of dry powder and will be in a tube. Shipping time is about 2-3 days. 
+
+*The multiple Entry Template (provided by Sigma) have the below columns*
+```
+Oligo Name	Sequence	Scale (μmole)	"Notes (Optional)"
+```
 
 # This is how we make a 100um stock of primers once they arrive
 1. Before making the stock, centrifigute the tube containing primers for 2min at 8.0rpm to allow the primers (in powder) to aggragate at the bottom of the tube. 
