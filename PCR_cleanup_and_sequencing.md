@@ -11,6 +11,15 @@ ddH2O | 4 | 2 | 1
 # Big Dye reaction
 
 ## Mix per sample
+- ddH2O: 3.25ul
+- 5x buffer: 2.5ul
+- primer: 1ul
+- Big Dye: 0.75ul
+- Dimso: 0.5ul
+
+
+## DNA per sample
+- DNA: 4ul
 
 
 # Sequence cleanup
