@@ -1,6 +1,6 @@
 # ExoSapping
 
-## Mix per sample
+### Mix per sample
 
 Band Intensity | Medium | light | No band
 -------------- |:------:| -----:| -------
@@ -10,7 +10,7 @@ ddH2O | 4 | 2 | 1
 
 # Big Dye reaction
 
-## Mix per sample
+### Mix per sample
 - ddH2O: 3.25ul
 - 5x buffer: 2.5ul
 - primer: 1ul
@@ -18,7 +18,7 @@ ddH2O | 4 | 2 | 1
 - Dimso: 0.5ul
 
 
-## DNA per sample
+### DNA per sample
 - DNA: 4ul
 
 
