@@ -1,7 +1,7 @@
 # ExoSapping
 
 ## Mix per sample
-| |Medium|light|No band|
+|Band Intensity|Medium|light|No band|
 | ------------- |:-------------:| -----:|
 |Exo1|0.125|0.125|0.125|
 |FastAP|1|1||1|
