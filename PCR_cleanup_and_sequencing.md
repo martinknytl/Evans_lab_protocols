@@ -1,6 +1,7 @@
 # ExoSapping
 
 ## Mix per sample
+
 | Band Intensity | Medium | light | No band |
 | ------------- |:-------------:| -----:|
 | Exo1 | 0.125 | 0.125 | 0.125 |
