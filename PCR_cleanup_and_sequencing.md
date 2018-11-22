@@ -22,7 +22,8 @@ ddH2O | 4 | 2 | 1
 - DNA: 4ul
 
 
-# Sequence cleanup
+# Sephex - sequence cleanup
 
 # Setting up and submitting a datasheet for sequencing at TCAG
-website http://genesifter.research.sickkids.ca/gsle/OM/orderList
+We do our sequencing in TCAG DNA Sequencing Facility. 
+- website: http://genesifter.research.sickkids.ca/gsle/OM/orderList
