@@ -4,7 +4,8 @@ to access the cluster
 ssh username@graham.computecanada.ca
 ssh username@cedar.computecanada.ca
 ```
-Submitting and check on job status
+for graham and cedar you need a bash file to start a queue using batch. 
+*Submitting and check on job status*
 ```bash
 #submit a job
 sbatch 
@@ -15,7 +16,7 @@ squeue -u songxy
 # list resources used by completed job
  sacct -j jobID [--format=JobID,MaxRSS,Elapsed] 
 ```
-Loading and checking modules/softwares
+*Loading and checking modules/softwares*
 ```bash
 module avail <name> # search for a module
 module spider <name> # will give info about the module name and its dependcies
@@ -24,7 +25,7 @@ module load moduleName
 module unload moduleName
 module show moduleName # show commands in the module
 ```
-Example of bash sript for job submission
+*Example of bash sript for job submission*
 ```bash
 #####The bash file 
 
