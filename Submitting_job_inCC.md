@@ -51,3 +51,4 @@ Link to useful intro or resource:
 - available programs: https://docs.computecanada.ca/wiki/Available_software
 - check the cluster status: https://status.computecanada.ca/
 - introduction ppt: https://www.westgrid.ca/files/WestGrid-July2017TownHall-CedarDemo.pdf
+- more about sbatch: https://slurm.schedmd.com/sbatch.html
