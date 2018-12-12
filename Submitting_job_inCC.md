@@ -8,13 +8,13 @@ for graham and cedar you need a bash file to start a queue using batch.
 **Submitting and check on job status**
 ```bash
 #submit a job
-sbatch 
+sbatch script.sh #ex, sbatch bwa.sh
 
 #check on the status of job submitted
-squeue -u songxy
+squeue -u username #ex, squene -u songxy
 
 # list resources used by completed job
- sacct -j jobID [--format=JobID,MaxRSS,Elapsed] 
+ sacct -j jobID [--format=JobID,MaxRSS,Elapsed] #ex, sacct 9990456
 ```
 **Loading and checking modules/softwares**
 ```bash
