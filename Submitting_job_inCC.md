@@ -24,6 +24,27 @@ module load moduleName
 module unload moduleName
 module show moduleName # show commands in the module
 ```
+Example of bash sript for job submission
+```bash
+#####The bash file 
+
+#!/bin/sh                                                                                            
+#SBATCH --job-name=Bwa_Mem                                                                           
+#SBATCH --nodes=1                                                                                    
+#SBATCH --ntasks-per-node=32                                                                         
+#SBATCH --time=96:00:00                                                                              
+#SBATCH --mem=50gb                                                                                   
+#SBATCH --output=BwaMem.%J.out                                                                       
+#SBATCH --error=BwaMem.%J.err                                                                        
+#SBATCH --account=def-ben                                                                            
+
+/home/ben/project/ben/bin/bwa/bwa mem /home/ben/project/ben/MacaM/MacaM_mt_y.fa $1 $2 -t $SLURM_NTAS\
+KS_PER_NODE | /home/ben/project/ben/bin/samtools-1.5/samtools view -Shu - | /home/ben/project/ben/bi\
+n/samtools-1.5/samtools sort - -o $3
+
+#####To submit the job
+sbatch bwa.sh fastq1.fq.gz fastq2.fq.gz bamout.bam
+```
 
 Link to useful intro or resource:
 - available programs: https://docs.computecanada.ca/wiki/Available_software
