@@ -1,4 +1,4 @@
-# Basic - submitting job in Slurm Graham and Cedar
+# Basic - submitting job in Graham and Cedar (Slurm queuing system)
 to access the cluster
 ```bash
 ssh username@graham.computecanada.ca
