@@ -14,7 +14,7 @@ sbatch script.sh #ex, sbatch bwa.sh
 squeue -u username #ex, squene -u songxy
 
 # list resources used by completed job
- sacct -j jobID [--format=JobID,MaxRSS,Elapsed] #ex, sacct 9990456
+ sacct -j jobID [--format=JobID,MaxRSS,Elapsed] #ex, sacct -j 9990456
 ```
 **Loading and checking modules/softwares**
 ```bash
