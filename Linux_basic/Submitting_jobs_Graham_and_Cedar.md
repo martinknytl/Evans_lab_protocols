@@ -15,6 +15,10 @@ squeue -u username #ex, squene -u songxy
 
 # list resources used by completed job
  sacct -j jobID [--format=JobID,MaxRSS,Elapsed] #ex, sacct -j 9990456
+ 
+# to cancel a job
+scancel jobID #ex, scancel 10284976
+ 
 ```
 **Loading and checking modules/softwares**
 ```bash
