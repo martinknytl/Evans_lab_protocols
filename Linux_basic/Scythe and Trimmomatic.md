@@ -17,7 +17,7 @@ Other options:
 
 ## how to run Scythe on all the file with one command
 ```
-for i in *fastq.gz ; do name=$(grep -o "XT[0-9]*_[A-Z][0-9]*." <(echo $i)); /home/xue/software/scythe-master/scythe -a /home/xue/software/scythe-master/illumina_adapters.fa -p 0.1 $i | gzip > $name\_scythe.fastq.gz ; done
+for i in *fastq.gz ; do name=$(grep -o "XT[0-9]*_[A-Z][0-9]" <(echo $i)); /home/xue/software/scythe-master/scythe -a /home/xue/software/scythe-master/illumina_adapters.fa -p 0.1 $i | gzip > /home/xue/tropicalis_gonad_transcriptome_Dec2018/scythed_data/$name\_scythe.fastq.gz; done
 ```
 
 # Trimmomatic 
