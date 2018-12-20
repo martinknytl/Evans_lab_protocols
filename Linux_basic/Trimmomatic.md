@@ -15,6 +15,11 @@ Other options:
 - -n: one can specify the minimum match length argument with -n <integer> and 
 - -M: the minimum length of sequence (discarded less than or equal to this parameter) to keep after trimming with -M <integer>
 
+## how to run Scythe on all the file with one command
+```
+for i in *fastq.gz ; do name=$(grep -o "XT[0-9]*_[A-Z][0-9]*." <(echo $i)); /home/xue/software/scythe-master/scythe -a /home/xue/software/scythe-master/illumina_adapters.fa -p 0.1 $i | gzip > $name\_scythe.fastq.gz ; done
+```
+
 # Trimmomatic 
 
 ## Installing trimmomatic
