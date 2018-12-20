@@ -1,9 +1,9 @@
 # Sythe
 more detail about scythe: https://github.com/vsbuffalo/scythe. 
 
-## how to run Sythe
+## how to run Scythe
 ```
-scythe -a /home/xue/software/scythe-master/illumina_adapters.fa -p 0.1 -o trimmed_sequences.fastq sequences.fastq
+/home/xue/software/scythe-master/scythe -a /home/xue/software/scythe-master/illumina_adapters.fa -p 0.1 -o /home/xue/tropicalis_gonad_transcriptome_Dec2018/raw_data/XT1_R1_scythe.fastq.gz /home/xue/tropicalis_gonad_transcriptome_Dec2018/raw_data/XT1_R1.fastq.gz
 ```
 What are the parameters
 - -a: adapter file in fasta format
