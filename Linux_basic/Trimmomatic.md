@@ -1,6 +1,23 @@
+# Sythe
+more detail about scythe: https://github.com/vsbuffalo/scythe. 
+
+## how to run Sythe
+```
+scythe -a /home/xue/software/scythe-master/illumina_adapters.fa -p 0.1 -o trimmed_sequences.fastq sequences.fastq
+```
+What are the parameters
+- -a: adapter file in fasta format
+- -p: the prior contamination rate is 0.05; BenF used 0.1.
+- -o: output file name
+
+Other options:
+- -q: Illumina's quality scheme (pipeline > 1.3) is used. Sanger or Solexa (pipeline < 1.3) qualities can be specified
+- -n: one can specify the minimum match length argument with -n <integer> and 
+- -M: the minimum length of sequence (discarded less than or equal to this parameter) to keep after trimming with -M <integer>
+
 # Trimmomatic 
 
-# Installing trimmomatic
+## Installing trimmomatic
 
 This software is used to trim off bad sequences based on position in the read and quality scores of the nucleotides.  You can get it like this `wget http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/Trimmomatic-0.36.zip`
 
@@ -11,7 +28,7 @@ path to raw read file:
 ```
 /home/xue/diploid_tetraploid_transcriptome_QA/Laevis_TranscriptomeData/Sample_BenEvansBJE3909cDNA_Library
 ```
-# what does trimmomatic does
+## what does trimmomatic does
 This will perform the following:
 
 - Remove adapters (ILLUMINACLIP:TruSeq3-PE.fa:2:30:10)
@@ -20,7 +37,7 @@ This will perform the following:
 - Scan the read with a 4-base wide sliding window, cutting when the average quality per base drops below 15 (SLIDINGWINDOW:4:15)
 - Drop reads below the 36 bases long (MINLEN:36)
 
-##Run trimmomatic 
+## Run trimmomatic 
 run it like this if it is paired end
 learn how to run trimmomatic and what the command means: http://www.usadellab.org/cms/?page=trimmomatic
 
