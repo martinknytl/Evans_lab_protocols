@@ -14,7 +14,8 @@ scp xue@info.mcmaster.ca:/home/xue/transcriptome_data/BJE3909_tropicalis_trimmed
 ```
 
 ## How to read fastqc files?
-- Video: https://www.youtube.com/watch?v=bz93ReOv87Y
+- Video 
+https://www.youtube.com/watch?v=bz93ReOv87Y
 
 - Detail explanation on each category
 https://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/
