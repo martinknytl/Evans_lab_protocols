@@ -8,7 +8,7 @@ You can make a html file with QC information like this:
 fastqc BJE3909_single_R1_and_R2.fq.gz
 
 # do it for all fastq.gz file in the folder
-for i in *fastq.gz ; do fastqc $i; done
+for i in *fastq.gz ; fastqc $i; done
 ```
 
 and then download the file to inspect with a browser like this:
