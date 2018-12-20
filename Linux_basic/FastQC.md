@@ -17,6 +17,8 @@ and then download the file to inspect with a browser like this:
 scp xue@info.mcmaster.ca:/home/xue/transcriptome_data/BJE3909_tropicalis_trimmed_data/BJE3909_single_R1_and_R2_fastqc.html .
 ```
 
+something
+
 ## How to read fastqc files?
 - Video 
 https://www.youtube.com/watch?v=bz93ReOv87Y
