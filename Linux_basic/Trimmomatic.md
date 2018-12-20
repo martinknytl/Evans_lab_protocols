@@ -1,4 +1,4 @@
-# Sythe
+# Scythe
 more detail about scythe: https://github.com/vsbuffalo/scythe. 
 
 ## how to run Scythe
